@@ -1,2 +1,2 @@
 # petabyte-scale
-Data warehousing techniques to handle petabyte scale data with Amazon Redshift.
+Data warehousing techniques to handle and take advantage of petabyte scale data with Amazon Redshift.
